@@ -9,7 +9,7 @@ To shed light on recent changes in cross-border value chains in developing Asia,
 | File   | What's inside |
 | ----------- | ----------- |
 | _01Data_     |  ADB MRIO tables-annual; pre-generated exports decomposition and GVCs metrics; required concordances files |
-| _02Scripts_   |  `0_dataprep.do` compiles and prepares data from ADB MRIOTs;`1_maincharts.do` produces the figures that appeared in the GVC writeup;`2_background.do` produces charts that can be used to back   |
+| _02Scripts_   |  `0_dataprep.do` compiles and prepares data from ADB MRIOTs;`1_maincharts.do` produces the figures that appeared in the GVC writeup;`2_background.do` generates statistics and charts from ADB MRIOT data to look at various trends and patterns by region, by economy, by sector, bilateral linkages, etc.   |
 | _03Output_   | charts and csv files for underlying data; _Charts-GVCs Policy brief.xlsx_ is a template automatically updated when you run `1_maincharts.do` |
 | _04Temp_   | repository for temporary files, will automatically wipe out after the entire data build is done |
 
